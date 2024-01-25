@@ -1,0 +1,6 @@
+npm install express
+npm install -g nodemon
+npm install dotenv
+cd backend 
+npm init -y      
+nodemon server.js
