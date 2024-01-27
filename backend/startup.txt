@@ -3,4 +3,5 @@ npm install -g nodemon
 npm install dotenv
 cd backend 
 npm init -y      
+npm install mongoose
 nodemon server.js
